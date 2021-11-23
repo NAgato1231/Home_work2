@@ -1,0 +1,23 @@
+body {
+    background:aquamarine ;
+ }
+ details:nth-child(1) { 
+    font-size:30px ;
+    background:darkmagenta ;
+ }
+ details:nth-child(2) {
+   font-size: 30px;
+   background:yellow ;
+   
+
+ }
+ details:nth-child(3) {
+   font-size: 30px;
+   background: darkmagenta;
+
+ }
+        
+ details:nth-child(4) {
+   font-size: 30px;
+   background: darkred;
+ }
